@@ -16,3 +16,6 @@ The data is from 90,189 players that installed the game while the AB-test was ru
 - retention_7 - did the player come back and play 7 days after installing?
 
 When a player installed the game, he or she was randomly assigned to either gate_30 or gate_40.
+
+
+##### You can also find the link to the article I wrote on A/B testing [here](https://www.linkedin.com/pulse/leveraging-ab-testing-drive-business-decisions-jude-ndu?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BGimcB4jsTtKAcmWzz%2F%2FgDw%3D%3D)
